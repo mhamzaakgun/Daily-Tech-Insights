@@ -1,6 +1,6 @@
 # MHA52 Daily Tech Digest
 
-Short, source-backed daily technology digests written for computer engineering students.
+Short, source-backed daily technology digests written for for those who are curious.
 
 The goal is to track important developments across AI, software engineering, open source, developer tools, hardware, policy, startups, and other parts of the technology world without turning the feed into a single-topic newsletter.
 
