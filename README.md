@@ -1,4 +1,7 @@
-<img width="1536" height="1024" alt="ChatGPT Image May 9, 2026, 05_58_42 PM" src="https://github.com/user-attachments/assets/5da98f53-4e80-4d8c-8ad2-3261c2fc8151" />
+<p align="center">
+  <img width="900" alt="Daily Tech News banner" src="https://github.com/user-attachments/assets/5da98f53-4e80-4d8c-8ad2-3261c2fc8151" />
+</p>
+
 # MHA52 Daily Tech Digest
 
 Short, source-backed daily technology digests written for curious learners.
