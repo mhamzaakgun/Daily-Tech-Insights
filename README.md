@@ -2,7 +2,7 @@
   <img width="900" alt="Daily Tech News banner" src="https://github.com/user-attachments/assets/5da98f53-4e80-4d8c-8ad2-3261c2fc8151" />
 </p>
 
-# MHA52 Daily Tech Digest
+# Daily Tech Digest
 
 Short, source-backed daily technology digests written for curious learners.
 
