@@ -10,16 +10,18 @@ The goal is to track important developments across AI, software engineering, ope
 
 ## Posts
 
-- [2026-05-17 - Daily Tech Digest](posts/2026-05-17.md)
-- [2026-05-16 - Daily Tech Digest](posts/2026-05-16.md)
-- [2026-05-15 - Daily Tech Digest](posts/2026-05-15.md)
-- [2026-05-14 - Daily Tech Digest](posts/2026-05-14.md)
-- [2026-05-13 - Daily Tech Digest](posts/2026-05-13.md)
-- [2026-05-12 - Daily Tech Digest](posts/2026-05-12.md)
-- [2026-05-11 - Daily Tech Digest](posts/2026-05-11.md)
-- [2026-05-10 - Daily Tech Digest](posts/2026-05-10.md)
-- [2026-05-09 - Daily Tech Digest](posts/2026-05-09.md)
-- [2026-05-08 - Daily Tech Digest](posts/2026-05-08.md)
+### 2026-05
+
+- [2026-05-17 - Daily Tech Digest](posts/2026-05/2026-05-17.md)
+- [2026-05-16 - Daily Tech Digest](posts/2026-05/2026-05-16.md)
+- [2026-05-15 - Daily Tech Digest](posts/2026-05/2026-05-15.md)
+- [2026-05-14 - Daily Tech Digest](posts/2026-05/2026-05-14.md)
+- [2026-05-13 - Daily Tech Digest](posts/2026-05/2026-05-13.md)
+- [2026-05-12 - Daily Tech Digest](posts/2026-05/2026-05-12.md)
+- [2026-05-11 - Daily Tech Digest](posts/2026-05/2026-05-11.md)
+- [2026-05-10 - Daily Tech Digest](posts/2026-05/2026-05-10.md)
+- [2026-05-09 - Daily Tech Digest](posts/2026-05/2026-05-09.md)
+- [2026-05-08 - Daily Tech Digest](posts/2026-05/2026-05-08.md)
 
 ## Format
 
