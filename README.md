@@ -11,6 +11,25 @@ The goal is to track important developments across AI, software engineering, ope
 ## Posts
 
 ### 2026-07
+- [2026-07-16 - Daily Tech Digest](posts/2026-07/2026-07-16.md)
+- [2026-07-17 - Daily Tech Digest](posts/2026-07/2026-07-17.md)
+- [2026-07-18 - Daily Tech Digest](posts/2026-07/2026-07-18.md)
+- [2026-07-19 - Daily Tech Digest](posts/2026-07/2026-07-19.md)
+- [2026-07-20 - Daily Tech Digest](posts/2026-07/2026-07-20.md)
+- [2026-07-21 - Daily Tech Digest](posts/2026-07/2026-07-21.md)
+- [2026-07-22 - Daily Tech Digest](posts/2026-07/2026-07-22.md)
+- [2026-07-23 - Daily Tech Digest](posts/2026-07/2026-07-23.md)
+- [2026-07-24 - Daily Tech Digest](posts/2026-07/2026-07-24.md)
+- [2026-07-25 - Daily Tech Digest](posts/2026-07/2026-07-25.md)
+- [2026-07-26 - Daily Tech Digest](posts/2026-07/2026-07-26.md)
+- [2026-07-27 - Daily Tech Digest](posts/2026-07/2026-07-27.md)
+- [2026-07-28 - Daily Tech Digest](posts/2026-07/2026-07-28.md)
+- [2026-07-29 - Daily Tech Digest](posts/2026-07/2026-07-29.md)
+- [2026-07-30 - Daily Tech Digest](posts/2026-07/2026-07-30.md)
+- [2026-07-31 - Daily Tech Digest](posts/2026-07/2026-07-31.md)
+
+### 2026-08
+- [2026-08-01 - Daily Tech Digest](posts/2026-08/2026-08-01.md)
 
 - [2026-07-15 - Daily Tech Digest](posts/2026-07/2026-07-15.md)
 - [2026-07-14 - Daily Tech Digest](posts/2026-07/2026-07-14.md)
