@@ -12,6 +12,17 @@ The goal is to track important developments across AI, software engineering, ope
 
 ### 2026-09
 
+- [2026-09-06 - Daily Tech Digest](posts/2026-09/2026-09-06.md)
+- [2026-09-07 - Daily Tech Digest](posts/2026-09/2026-09-07.md)
+- [2026-09-08 - Daily Tech Digest](posts/2026-09/2026-09-08.md)
+- [2026-09-09 - Daily Tech Digest](posts/2026-09/2026-09-09.md)
+- [2026-09-10 - Daily Tech Digest](posts/2026-09/2026-09-10.md)
+- [2026-09-11 - Daily Tech Digest](posts/2026-09/2026-09-11.md)
+- [2026-09-12 - Daily Tech Digest](posts/2026-09/2026-09-12.md)
+- [2026-09-13 - Daily Tech Digest](posts/2026-09/2026-09-13.md)
+- [2026-09-14 - Daily Tech Digest](posts/2026-09/2026-09-14.md)
+- [2026-09-15 - Daily Tech Digest](posts/2026-09/2026-09-15.md)
+
 - [2026-09-05 - Daily Tech Digest](posts/2026-09/2026-09-05.md)
 
 - [2026-09-04 - Daily Tech Digest](posts/2026-09/2026-09-04.md)
