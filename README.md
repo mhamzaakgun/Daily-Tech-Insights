@@ -213,4 +213,4 @@ Each digest includes:
 
 ## Notes
 
-This repository is part of an automation experiment: collect reliable tech news, summarize them in English, and keep a public learning archive on GitHub.
+This repository is part of an automation experiment: collect reliable tech news, summarize it in English, and keep a public learning archive on GitHub.
