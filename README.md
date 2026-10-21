@@ -12,6 +12,10 @@ The goal is to track important developments across AI, software engineering, ope
 
 ### 2026-10
 
+- [2026-10-20 - Daily Tech Digest](posts/2026-10/2026-10-20.md)
+- [2026-10-19 - Daily Tech Digest](posts/2026-10/2026-10-19.md)
+- [2026-10-18 - Daily Tech Digest](posts/2026-10/2026-10-18.md)
+- [2026-10-17 - Daily Tech Digest](posts/2026-10/2026-10-17.md)
 - [2026-10-16 - Daily Tech Digest](posts/2026-10/2026-10-16.md)
 - [2026-10-15 - Daily Tech Digest](posts/2026-10/2026-10-15.md)
 - [2026-10-14 - Daily Tech Digest](posts/2026-10/2026-10-14.md)
@@ -209,4 +213,4 @@ Each digest includes:
 
 ## Notes
 
-This repository is part of an automation experiment: collect reliable tech news, summarize it in English, and keep a public learning archive on GitHub.
+This repository is part of an automation experiment: collect reliable tech news, summarize them in English, and keep a public learning archive on GitHub.
